@@ -1,2 +1,3 @@
-# machine_learning
-A brief introduction to the world of machine learning
+# Machine Learning
+Una breve introduzione al mondo del machine learning
+
